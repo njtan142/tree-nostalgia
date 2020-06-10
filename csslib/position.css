@@ -1,0 +1,25 @@
+.rel{
+    position: relative;
+}
+.abs{
+    position: absolute;
+}
+.stk{
+    position:sticky;
+}
+.fxd{
+    position: fixed;
+}
+.zi1{
+    z-index: 1;
+}
+.zi2{
+    z-index: 2;
+}
+.zi3{
+    z-index: 3;
+}.zi4{
+    z-index: 4;
+}.zi5{
+    z-index: 5;
+}

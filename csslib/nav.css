@@ -1,0 +1,11 @@
+.nav-list-row{
+    display:flex
+}
+.nav-list-column{
+    display: none;
+}
+@media only screen and (max-width:500px){
+    .nav-list-column{
+        display:block
+    }
+}

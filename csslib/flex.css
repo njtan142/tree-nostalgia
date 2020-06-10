@@ -1,0 +1,118 @@
+.fx {
+    display: flex;
+}
+/* direction */
+.r {
+    flex-direction: row;
+}
+
+.rr {
+    flex-direction: row-reverse;
+}
+.col {
+    flex-direction: column;
+}
+
+.colr {
+    flex-direction: column-reverse;
+}
+/* flex */
+
+.fa {
+    flex: auto;
+}
+
+.fi {
+    flex: initial;
+}
+
+.fn {
+    flex: none;
+}
+/* order */
+.o1 {
+    order: 1;
+}
+
+.ol2 {
+    order: 2;
+}
+
+.ol3 {
+    order: 3;
+}
+
+.ol4 {
+    order: 4
+}
+
+.ol5 {
+    order: 5;
+}
+/* align-items */
+.aifs {
+    align-items: flex-start;
+}
+
+.aife {
+    align-items: flex-end;
+}
+
+.aic {
+    align-items: center;
+}
+
+.aib {
+    align-items: baseline;
+}
+
+.ais {
+    align-items: stretch;
+}
+/* align-self */
+.asfs{
+    align-self:flex-start;
+}
+.asfe{
+    align-self: flex-end;
+}
+.asc{
+    align-self: center;
+}
+.asb{
+    align-self: baseline;
+}
+.ass{
+    align-self: stretch;
+}
+/* justify-content */
+.jcfs{
+    justify-content: flex-start;
+}
+.jcfe{
+    justify-content: flex-end;
+}
+.jcc{
+    justify-content: center;
+}
+.jcsa{
+    justify-content: space-around;
+}
+.jcsb{
+    justify-content: space-between;
+}
+.jcse{
+    justify-content: space-evenly;
+}
+/* flex-wrap */
+.fw {
+    flex-wrap: wrap;
+}
+
+.fnw {
+    flex-wrap: nowrap;
+}
+
+.fwr {
+    flex-wrap: wrap-reverse;
+}
